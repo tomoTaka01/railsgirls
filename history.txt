@@ -1,0 +1,500 @@
+   12  gvm gradle -version
+   13  gvm use gradle
+   14  gvm -help
+   15  gvm c gradle
+   16  pwd
+   17  gradle compile
+   18  bim build.gradle 
+   19  vim build.gradle 
+   20  gvm -c
+   21  gvm list
+   22  gvm -list
+   23  gvm -list gradle
+   24  gvm gradle -v
+   25  gvm gradle v
+   26  gvm c gradle
+   27  gvm list gradle
+   28  gvm current
+   29  gvm use gradle 2.4
+   30  gvm c gradle
+   31  gvm list gradle
+   32  vim build
+   33  vim build.gradle 
+   34  exit
+   35  cd gscollections/sample1/
+   36  pwd
+   37  ls
+   38  cd src/main/java/sample/
+   39  ls
+   40  vim GradleMain.java 
+   41  pwd
+   42  vim Main.java
+   43  vim Main.java
+   44  vim GradleMain.java 
+   45  vim Main.java
+   46  vim Main.java
+   47  vim Main.java
+   48  vim Main.java
+   49  ls
+   50  rm GradleMain.java 
+   51  open -e Main.java
+   52  exit
+   53  cd gscollections/
+   54  ls
+   55  d
+   56  cd sample1/
+   57  ls
+   58  vim build.gradle 
+   59  mv build.gradle build2.gradl
+   60  vim build.gradle
+   61  mkdir -r src/main/java
+   62  mkdir --r src/main/java
+   63  mkdir -help
+   64  man mkdir
+   65  man mkdir
+   66  mkdir - src/main/java
+   67  mkdir -p src/main/java
+   68  tree
+   69  cd src/main/java
+   70  pwd
+   71  mkdir sample
+   72  cd sample
+   73  pwd
+   74  vim GradleMain.java
+   75  cd ../../../../
+   76  pwd
+   77  ls
+   78  gradle compileJava
+   79  gradle compileJava
+   80  tree
+   81  gradle clean
+   82  tree
+   83  vim build.gradle 
+   84  gradle clean
+   85  tree
+   86  gradle compileJava
+   87  vim build.gradle 
+   88  gradle --debug compileJava
+   89  vim build.gradle
+   90  gradle --debug compileJava
+   91  tree
+   92  gradle compileJava
+   93  gradle compileJava
+   94  gradle compileJava
+   95  gradle compileJava
+   96  gradle compileJava
+   97  gradle compileJava
+   98  tree
+   99  tree
+  100  gradle compileJava
+  101  pwd
+  102  tree
+  103  gradle clean
+  104  gradle compileJava
+  105  tree
+  106  vim build.gradle 
+  107  gradle compileJava
+  108  gradle run
+  109  pwd
+  110  tree
+  111  rm build2.gradl 
+  112  tree
+  113  vim build.gradle 
+  114  gradle run
+  115  tree
+  116  clear
+  117  tree
+  118  clear
+  119  gradle run
+  120  cat build.gradle 
+  121  open -e build.gradle 
+  122  cd gscollections/sample1/
+  123  ls
+  124  cd build
+  125  ls
+  126  cd classes/
+  127  ls
+  128  cd main/
+  129  ls
+  130  java sample/GradleMain
+  131  java sample/Main
+  132  pwd
+  133  pwd
+  134  ls
+  135  java -classpath .;~/Downloads/gs-collections-kata-master/lib/gs-collections-6.0.0.jar sample/Main
+  136  java -classpath .:~/Downloads/gs-collections-kata-master/lib/gs-collections-6.0.0.jar sample/Main
+  137  pwd
+  138  ls
+  139  ls
+  140  pwd
+  141  ls
+  142  cd ../
+  143  ls
+  144  cd main
+  145  ls
+  146  pwd
+  147  java -classpath .:~/Downloads/gs-collections-kata-master/lib/gs-collections-6.0.0.jar sample/Main
+  148  cd .gradle
+  149  cd caches/
+  150  ls
+  151  cd jars-1/
+  152  ls
+  153  cd ../modules-2/
+  154  ls
+  155  cd ..
+  156  cd ../
+  157  pwd
+  158  find . -name gd-collctions*
+  159  find . -name gs-collctions*
+  160  find . -nama gs*
+  161  find . -name gs*.jar
+  162  cd Downloads/
+  163  cd gs-collections-kata-master/
+  164  ls
+  165  cd lib/
+  166  ls
+  167  cd Desktop
+  168  rm gradle_tree.png 
+  169  rm gradle_run.png 
+  170  rm aws.pdf 
+  171  cd Down
+  172  cd ~/Downloads/
+  173  ls
+  174  ls -lt
+  175  ls *.gz
+  176  rm robovm-0.0.7.tar.gz 
+  177  rm joda-time-2.3-dist.tar.gz 
+  178  ls
+  179  ls *.zip
+  180  rm ClipboardDemo.zip 
+  181  rm Mercurial-3.0-py2.7-macosx10.9.zip 
+  182  rm bootstrap.zip 
+  183  rm glassfish-4.0.zip 
+  184  rm iTerm2_v1_0_0.zip 
+  185  rm jasmine-standalone-2.1.3.zip 
+  186  rm javax.faces-api-2.2-FINAL.zip 
+  187  rm json_simple-1.1-all.zip 
+  188  ls *.zip
+  189  rm samples.zip 
+  190  rm JavaOne2013Presentation-master.zip 
+  191  rm CustomDataFormatDemo.zip 
+  192  rm DragNDropDemo.zip 
+  193  ls
+  194  ls *.dmg
+  195  rm Abobe*.dmg
+  196  rm AdobeFlashPlayerInstaller_14au_ltrosxd_aaa_aih.dmg 
+  197  rm AdobeFlashPlayerInstaller_14au_ltrosxd_aaa_aih-2.dmg 
+  198  rm AdobeFlashPlayerInstaller_15au_ltrosxd_aaa_aih.dmg 
+  199  rm AdobeFlashPlayerInstaller_17au_ltrosxd_aaa_aih.dmg 
+  200  rm AdobeFlashPlayer_17au_a_install.dmg 
+  201  rm VirtualBox-4.3.22-98236-OSX.dmg 
+  202  rm XQuartz-2.7.7.dmg 
+  203  rm android-studio-ide-1641136.dmg 
+  204  rm jdk-8u20-macosx-x64.dmg 
+  205  rn jdk-8u40-macosx-x64.dmg 
+  206  rm jdk-8u45-macosx-x64.dmg 
+  207  rm qt-opensource-mac-x64-1.6.0-5-online.dmg 
+  208  ls *.dmg
+  209  rm command_line_tools_for_osx_10.9_for_xcode_6.1.dmg 
+  210  rm genymotion-2.3.1.dmg 
+  211  rm ideaIC-14.1.3.dmg 
+  212  rm jdk-8u40-macosx-x64.dmg 
+  213  ls *.dmg
+  214  rm Wireshark\ 1.12.4\ Intel\ 64.dmg 
+  215  ls *.dmg
+  216  ls
+  217  exit
+  218  cd Desktop
+  219  ls -lt
+  220  open JMCCI.pdf 
+  221  exit
+  222  perf --help
+  223  exit
+  224  cd gscollections/sample1/src/
+  225  ls
+  226  cd main/
+  227  ls
+  228  cd java
+  229  tree
+  230  sa sample/
+  231  ls
+  232  cd sample/
+  233  ls
+  234  clear
+  235  exit
+  236  cd gscollections/
+  237  l
+  238  ls
+  239  cd sample1/
+  240  ls
+  241  vim build.gradle 
+  242  exit
+  243  cd test.c
+  244  llvm -version
+  245  gcc -version
+  246  clang
+  247  clamg test.c
+  248  clang test.c
+  249  vim test.c
+  250  clang test.c
+  251  vim test.c
+  252  clang test.c
+  253  ls
+  254  lclear
+  255  clear
+  256  ls -l test*
+  257  clang test.c
+  258  clang -help
+  259  ls -l output*
+  260  clang -v
+  261  clang -o test test.c
+  262  clang -o test.c test
+  263  clang -ov test.c test
+  264  ls
+  265  ls -l test:
+  266  ls -l test*
+  267  vim test.c
+  268  clang -o tets.c test
+  269  clang -o test.c test
+  270  clang -ov test.c test
+  271  ls test*
+  272  ls -l test*
+  273  ping www.kyoto-u.ac.jp
+  274  exit
+  275  clang -help
+  276  vim Example.c
+  277  cp Example.c Example.1
+  278  clang Example.c
+  279  ls Example.*
+  280  clang -o Example.c Example
+  281  ls Example.*
+  282  clang -o Example.c 
+  283  ls Example.*
+  284  clang -o Example.c  Example.o
+  285  clang -help
+  286  clang Example.x -o Example
+  287  clang Example.c -o Example
+  288  ls Example*
+  289  clang Example
+  290  clang -v Example
+  291  gcc Example.c
+  292  gcc-4.8 Example.c
+  293  ls Example*
+  294  ls -l Example*
+  295  gcc-4.8 Example
+  296  Example
+  297  Example
+  298  c ^help
+  299  c -help
+  300  wchihis clang
+  301  which clang
+  302  cd /usr/bin
+  303  ls -l
+  304  cd ~
+  305  vim Example.c
+  306  cp Example.x Example.org
+  307  clang Example.c -o Example
+  308  clang Example
+  309  clang -help
+  310  clang -help > clang.help.txt
+  311  open clang.help.txt 
+  312  exit
+  313  vim Example.java
+  314  javac Example.java
+  315  java Example
+  316  vim Example.java
+  317  cd ~/NetBeansProjects/
+  318  cd EndianExample/
+  319  l
+  320  ls
+  321  cd build
+  322  ls
+  323  cd classes/
+  324  cd endianexample/
+  325  ls
+  326  cd /Users/tomo/
+  327  ls out*
+  328  pwd
+  329  ls java*
+  330  hexdupm -C javaout.txt
+  331  pwd
+  332  ls -l java*
+  333  hexdump -C javaout.txt 
+  334  rm javaout.txt 
+  335  hexdump -C javaout.txt 
+  336  rm javaout.txt 
+  337  hexdump -C javaout.txt
+  338  exit
+  339  vim Example.c
+  340  clang Example.c
+  341  ./a.out
+  342  vim Example.c
+  343  clang Example.c
+  344  ./a.out
+  345  clang Example.c -o Example
+  346  ./Example
+  347  ls -l output*
+  348  open output
+  349  ./Example
+  350  hexdump -C output
+  351  cat Example.c
+  352  :q
+  353  hexdump -C output
+  354  exit
+  355  ls output*
+  356  knf output 
+  357  hexdecimal -C output 
+  358  hexdump -C output
+  359  hexdump -C javaout2.txt 
+  360  hexdump -C javaout.txt
+  361  rm javaout2.txt 
+  362  hexdump -C javaout2.txt
+  363  exit
+  364  vim TOEIC.txt
+  365  open TOEIC.txt 
+  366  exit
+  367  cd /var
+  368  cd folders/_4/y1ykl0356sj1jkcl4__8tmfw0000gp/T
+  369  ls
+  370  open ruby-build.20150620075030.926/log
+  371  ls -l
+  372  open ruby-build.20150620075030.926.log
+  373  brew
+  374  brew update
+  375  brew install rbenv ruby-build
+  376  rbenv install 2.2.2
+  377  gcc
+  378  gcc
+  379  lvm
+  380  llvm
+  381  LLVM
+  382  set
+  383  which gcc
+  384  export CONFIGURE_OPTS='--disable-dtrace'
+  385  rbenv install 2.2.2
+  386  rbenv global 2.2.2
+  387  ruby -v
+  388  cat ~/.bash_profile
+  389  echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
+  390  cat ~/.bash_profile
+  391  source ~/.bash_profile
+  392  ruby -v
+  393  git -ver
+  394  git --version
+  395  exit
+  396  ruby -v
+  397  gem i rails --no-ri --no-rdoc
+  398  rails -v
+  399  rails -v
+  400  rbenv 
+  401  rbenv global
+  402  rbenv refresh
+  403  rbenv rehash
+  404  rbenv global
+  405  rails
+  406  rails -v
+  407  open -e memo.txt
+  408  heroku login
+  409  pwd
+  410  mkdir projects
+  411  cd projects
+  412  pwd
+  413  rails new railsgirls
+  414  ls
+  415  cd railsgirls/
+  416  rails server
+  417  pwd
+  418  rails generate scaffold idea name:string description:text picture:string
+  419  pwd
+  420  ls
+  421  bin/rake db:migrate
+  422  rails server
+  423  rails server
+  424  bundle
+  425  rails generate uploader Picture
+  426  rails server
+  427  rake routes
+  428  rails generate controller pages info
+  429  rails server
+  430  rake routes
+  431  pwd
+  432  heroku login
+  433  bundle install --without production 
+  434  bundle install --without production 
+  435  git status
+  436  git add .
+  437  git status
+  438  git commit -m "install postres for Heroku"
+  439  bundle install --without production 
+  440  git status
+  441  bundle install --without production 
+  442  git status
+  443  git add .
+  444  git commit -a -m "Added rails_12factor gem and updated Gemfile.lock"
+  445  heroku create
+  446  git push heroku master
+  447  heroku run rake db:migrate
+  448  heroku open
+  449  heroku 
+  450  heroku maintenance:on
+  451  open memo.txt 
+  452  ls project
+  453  ls projects
+  454  cd projects
+  455  cd railsgirls/
+  456  ls
+  457  cd ap
+  458  cd app
+  459  ls
+  460  cd ../public/
+  461  ls
+  462  cd uploads/
+  463  pwd
+  464  cd projects
+  465  cd railsgirls/
+  466  ls
+  467  cd view
+  468  git -version
+  469  git --version
+  470  git config --list
+  471  pwd
+  472  git init
+  473  ls README.rdoc 
+  474  git status
+  475  git add .
+  476  git status
+  477  vi .gitignore
+  478  git status
+  479  git reset
+  480  git status
+  481  git status
+  482  git add .
+  483  git status
+  484  git commit -m "first commit"
+  485  git remote add origin http://github.com/tomoTaka01/rails-girls.git
+  486  git push -u origin master
+  487  git remote add origin https://github.com/tomoTaka01/rails-girls.git
+  488  git remote remove
+  489  git remote remove origin
+  490  git remote add origin https://github.com/tomoTaka01/rails-girls.git
+  491  git push -u origin master
+  492  git remote remove origin
+  493  git push -u origin master
+  494  git remote add https://github.com/tomoTaka01/railsgirls.git
+  495  git remote remove origin
+  496  git remote
+  497  git remote add origin https://github.com/tomoTaka01/railsgirls.git
+  498  git push -u origin master
+  499  open memo.txt
+  500  exit
+  501  cd projects
+  502  cd railsgirls/
+  503  pwd
+  504  rails g scaffold comment user_name:string body:text idea_id:integer
+  505  rake db:migrate
+  506  rails
+  507  rails server
+  508  rails
+  509  rails db:migrate
+  510  rails server
+  511  history > history.txt
